@@ -13,6 +13,7 @@
 "MENTOR": Neela Santhosh
 
 #DESCRIPTION
+
 (In this project, sentiment analysis is performed on a dataset of customer reviews to classify them as positive or negative. The approach involves two main components: TF-IDF vectorization for feature extraction and Logistic Regression for classification.
 
 📌 Data Processing & Vectorization
@@ -28,3 +29,5 @@ After training, the model is tested on the unseen test data. Evaluation metrics 
 The model successfully learns patterns in the reviews and achieves good accuracy in distinguishing between positive and negative sentiments. The combination of TF-IDF and Logistic Regression proves to be effective for text classification tasks with binary outcomes.)
 
 #OUTPUT
+
+<img width="1065" height="891" alt="Image" src="https://github.com/user-attachments/assets/9ce7b257-a718-4250-a183-2f02591d3c20" />
